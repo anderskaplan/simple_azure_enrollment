@@ -9,9 +9,6 @@
   "author": "Kevin Saye",
   "homepage": "http://kevinsaye.wordpress.com",
   "dependencies": {
-    "camelcase": "^4.1.0",
-    "pem": "^1.14.2",
-    "jszip": "^3.4.0"
   },
   "devDependencies": {}
 }
